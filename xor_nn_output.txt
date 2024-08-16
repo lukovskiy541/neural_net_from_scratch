@@ -1,0 +1,16 @@
+Epoch 0, Loss: 1.556742915755427
+Epoch 1000, Loss: 0.676443002076915
+Epoch 2000, Loss: 0.6722095406901996
+Epoch 3000, Loss: 0.670216177179779
+Epoch 4000, Loss: 0.6690095229770067
+Epoch 5000, Loss: 0.6681917664937013
+Epoch 6000, Loss: 0.6675971765109439
+Epoch 7000, Loss: 0.6671433234375556
+Epoch 8000, Loss: 0.6667843218573293
+Epoch 9000, Loss: 0.6664924929386535
+
+Results after training:
+Target: [0], Output: 1
+Target: [1], Output: 1
+Target: [1], Output: 1
+Target: [0], Output: 1
